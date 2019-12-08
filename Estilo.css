@@ -1,0 +1,9 @@
+html {position: absolute;
+background-color: black;}
+
+body {position: relative;
+width:1000px;
+height:400px;
+background-color: blue;
+	}
+
